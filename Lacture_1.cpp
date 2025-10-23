@@ -55,7 +55,7 @@ int main()
     }
     else
     {
-        cout << n << "Not a Prime Number...." << endl;
+        cout << n << "Not a Prime Numbe.." << endl;
     }
 
     return 0;
